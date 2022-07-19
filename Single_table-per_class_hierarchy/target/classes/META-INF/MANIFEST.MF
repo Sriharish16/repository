@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Single_table-per_class_hierarchy
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Sriharish.S
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_172
+Implementation-URL: https://spring.io/projects/spring-boot/Single_tabl
+ e-per_class_hierarchy
+Created-By: Maven Integration for Eclipse
+
